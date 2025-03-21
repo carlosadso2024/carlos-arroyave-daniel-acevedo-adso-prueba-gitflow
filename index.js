@@ -16,4 +16,6 @@ class Inventario {
     }
    }
    
-   metodoB();
+metodoA();
+
+metodoB();
