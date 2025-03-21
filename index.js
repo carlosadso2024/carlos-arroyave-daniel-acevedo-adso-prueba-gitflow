@@ -19,3 +19,5 @@ class Inventario {
 metodoA();
 
 metodoB();
+
+metodoC();
