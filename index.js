@@ -16,10 +16,11 @@ class Inventario {
     }
    }
    
-metodoA();
+// Crear una instancia de la clase Inventario
+const inventario = new Inventario();
 
-metodoB();
-
-metodoC();
-
-metodoD();
+// Llamar a los métodos de la instancia
+inventario.metodoA();
+inventario.metodoB();
+inventario.metodoC();
+inventario.metodoD();
