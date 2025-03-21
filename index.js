@@ -15,4 +15,5 @@ class Inventario {
     console.log("Ejecutando método D");
     }
    }
-   
+
+metodoA();
