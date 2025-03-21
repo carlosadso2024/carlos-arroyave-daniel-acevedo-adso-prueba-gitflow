@@ -16,3 +16,4 @@ class Inventario {
     }
    }
    
+   metodoB();
